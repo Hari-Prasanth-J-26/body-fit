@@ -1,2 +1,3 @@
 # body-fit
- React js body fit web app workout scheduler and fitness tracker
+ The ultimate workouts training gym web app with react js and tailwind css
+ link : https://body-fit-gym-webapp.netlify.app/
