@@ -119,12 +119,7 @@ Or deploy manually using CLI.
 
 ---
 
-## 📬 Contact
-
-**Developer — Hari Prasanth J**
-GitHub: [https://github.com/Hari-Prasanth-J-26](https://github.com/Hari-Prasanth-J-26)
-
-> *(You may optionally add email / LinkedIn here for professional outreach.)*
+**Developed by Hari Prasanth** | [GitHub](https://github.com/Hari-Prasanth-J-26) | Made with ❤️
 
 ---
 
